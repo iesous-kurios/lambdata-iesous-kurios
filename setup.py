@@ -15,7 +15,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name = "lambdata_iesouskurios",
-    version = "0.0.1",
+    version = "0.0.2",
     author = "iesous-kurios",
     description = 'A collection of kinda useful data science helper functions',
     long_description = LONG_DESCRIPTION,
